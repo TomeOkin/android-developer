@@ -1,8 +1,8 @@
-# Android Developer
+﻿# Android Developer
 
 - [国内开发者](#国内开发者)
 - [国外开发者](#国外开发者)
-- [Github Group](#Github-Group)
+- [Github Group](#github-group)
 
 ## 国内开发者
 
