@@ -227,6 +227,12 @@ http://danlew.net/ <br/> https://github.com/dlew
 **Code Zen**    
 http://arpitonline.com/
 
+**Pavlo Dudka**    
+https://github.com/paveldudka/ <br/> http://trickyandroid.com/
+
+**Aidan Follestad**    
+https://github.com/afollestad
+
 
 ## Github Group
 
