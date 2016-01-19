@@ -153,6 +153,9 @@ https://github.com/androidyue <br/> http://droidyue.com/
 **race604、Jlog** Android周报    
 http://www.race604.com/ <br/> https://github.com/race604
 
+**Kale** Android-Best-Practices    
+https://github.com/tianzhijiexian <br/> http://www.cnblogs.com/tianzhijiexian/
+
 ## 国外开发者
 
 **Jake Wharton** ActionBarSherlock、butterknife、ViewPagerIndicator、NineOldAndroids、u2020、RxBinding、hugo，就职于Square，一直处于高度活跃状态    
